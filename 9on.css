@@ -1,0 +1,39 @@
+input {
+    border: 1px solid #848484;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    outline:0;
+    height:25px;
+    width: 275px;
+  }
+
+  body{
+    background-color: rgb(30,144,255);
+  }
+
+#topMenu{
+     color: #ffffff;
+     font-family: 'Raleway',sans-serif;
+     font-size: 50px;
+     font-weight: 800;
+     line-height: 72px;
+     margin: 0 0 24px;
+     text-align: center;
+     text-transform:
+     uppercase;
+}
+
+#wordOfTheDay{
+    background-color: white;
+    border-left-style: solid;
+    border-color: rgb(25,25,112);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#history{
+    background-color: white;
+    border-left-style: solid;
+    border-color: rgb(25,25,112);
+}
